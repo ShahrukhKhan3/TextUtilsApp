@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div_Header{
+    background: #000;
+}
+ul{
+
+    display: flex;
+}
+ul li{
+    padding: 5px;
+    color: aliceblue;
+    list-style-type: none;
+}
+input{
+    margin-left: 100px;
+}
