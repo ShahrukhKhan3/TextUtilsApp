@@ -1,0 +1,17 @@
+.Right{
+    width: 90%;
+    height: 800px;
+    background: black;
+    float: right;
+}
+.Left{
+    width: 10%;
+    height: 800px;
+    background: #202020;
+    float: left;
+}
+.Container{
+    width: 100%;
+    height: 800px;
+    background: aqua;
+}

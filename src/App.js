@@ -1,13 +1,13 @@
 import './App.css';
-import NavbBar from './Components/NavbBar';
-import TextForm from "./Components/TextForm";
+import Body from './component/Body';
+import Menu from './component/Menu';
+
 function App() {
  return (
-    <div className="App">
-    <NavbBar/>
-<h1>Enter Your Text Below</h1>
-   <TextForm/>
-    </div>
+  <div className="App">
+  <Menu />
+  <Body/>
+   </div>
   );
 }
 

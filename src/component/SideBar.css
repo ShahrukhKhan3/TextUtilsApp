@@ -1,0 +1,15 @@
+.sidebar_lis{
+}
+
+.list_Items{
+    color:white;
+    font-size: larger;
+    padding-top: 1px;
+    margin-bottom: 64px;
+}
+#list_ItemsP{
+    font-size: larger;
+    padding-top: 100px;
+    color: green;
+    margin-bottom: 65px
+}

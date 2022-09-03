@@ -1,0 +1,112 @@
+.main{
+    display: grid;
+    grid-template-rows: repeat(4,180px);
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
+.div1{
+height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.img{
+    
+    border-radius: 5px;
+}
+.div2{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-top: 18px;
+}
+.div3{
+    height: 100%;
+    border-radius: 36px;
+    margin-right: 18px;
+    background: white;
+    margin-left: 7px;
+    margin-top: 18px;
+}
+.div4{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 18px;
+    margin-top: 7px;
+}
+.div5{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.div6{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-right: 18px;
+    margin-top: 7px;
+}
+.div7{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 18px;
+    margin-top: 7px;
+}
+.div8{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.div9{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-right: 18px;
+    margin-top: 7px;
+}
+.div10{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 18px;
+    margin-top: 7px;
+}
+.div11{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.div12{
+    height: 100%;
+    border-radius: 36px;
+    background: white;
+    margin-left: 7px;
+    margin-right: 18px;
+    margin-top: 7px;
+}
+.title_1{
+    margin-top: -150px;
+    z-index: -66;
+    color: white;
+    margin-left: 19px;
+}
+.div1_img{
+    border-radius: 8px;
+    z-index: 1;
+}
+.price_1{
+    color: white;
+    margin-left: 13px;
+}

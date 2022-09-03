@@ -1,0 +1,45 @@
+nav{
+    background: #202020;;
+    height: 70px;
+}
+.Restro{
+    color: green;
+}
+.menu_item{
+    padding-top: 12px;
+    display: flex;
+}
+ul li{
+    list-style-type: none;
+
+}
+
+.Menu_Heading{
+    font-size:x-large;
+    color: white;
+    margin-top: 9px;
+}
+
+.input{
+    z-index: 1;
+    position: relative;
+    border: none;
+    text-align: start;
+    background: black;
+    color: #404040;
+    border-radius: 23px;
+   width: 300px;
+   height: 45px;
+   margin-left: 815px;
+}
+
+.button{
+    width: 200px;
+      height: 45px;
+    color: white;
+    background: red;
+    border-radius: 23px;
+    margin-left:20px;
+    border:none;
+}
+
